@@ -1,0 +1,3 @@
+keyStore password: gofreely123
+key password: keygofreely
+keyAlias: key0
